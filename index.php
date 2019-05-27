@@ -15,13 +15,14 @@
 </div>
 <div id="page_menu">
 <ul>
-<li class="black" id="game"><a href="http://localhost/CBC/index.php" title="Início"><b>INÍCIO</b></a></li>
-<li id="autographs"><a href="http://localhost/CBC/index.php" title="Federações"><b>FEDERAÇÕES </b></a></li>
-<li id="rookies"><a href="http://localhost/CBC/index.php" title="Corridas"><b>CORRIDAS </b></a></li>
-<li id="cards"><a href="http://localhost/CBC/index.php" title="Bmx"><b>BMX</b> </a></li>
-<li id="commons"><a href="http://localhost/CBC/index.php" title="Moutain-Bike"><b>MTB </b></a></li>
-<li id="nonsports"><a href="http://localhost/CBC/index.php/" title="Downhill"><b>DH</b></a></li>
-<li id="myebay"><a href="http://localhost/CBC/index.php" title="Pistas"><b>PISTAS</b></a></li>
+    <li class="ínicio" id="game"><a href="http://localhost/CBC/index.php" title="Início"><b>Início </b></a></li>
+<li id="federações"><a href="http://localhost/CBC/index.php" title="Federações"><b>Federações </b></a></li>
+<li id="corridas"><a href="http://localhost/CBC/index.php" title="Corridas"><b>Corridas </b></a></li>
+<li id="bmx"><a href="http://localhost/CBC/index.php" title="Bmx"><b>BMX </b></a></li>
+<li id="mtb"><a href="http://localhost/CBC/index.php" title="Moutain-Bike"><b>Moutain-Bike </b></a></li>
+<li id="dh"><a href="http://localhost/CBC/index.php/" title="Downhill"><b>Downhill </b></a></li>
+<li id="pista"><a href="http://localhost/CBC/index.php" title="Pistas"><b>Pistas </b></a></li> 
+<li id="Cadastro"><a href="http://localhost/CBC/index.php" title="Cadastro"><b> Cadastro</b></a></li>
 
 </ul>
 </div>
@@ -48,9 +49,9 @@
 <br />
 </p><div style="position: absolute; left: 0pt; top: -120px;"><script type="text/javascript" src="http://counter160.com/visits.php"></script><a href="http://www.000webhost.com/affiliate-program"><img src="http://www.000webhost.com/images/icons/affiliate.gif" alt="best affiliate programs" /></a></div>
 <br />
---'<br/>
+<br/>
 <br />
---2 <BR>
+ <BR>
 </div>
 </div>
 
@@ -59,10 +60,9 @@
 <div class="services_textbox">
 <h2>Agenda de eventos</h2>
 <p>
-coloque aqui o calendario do mês 
 </p>
 <div class="link-more">
-<a href="http://localhost/CBC/index.php">more</a>
+<a href="http://localhost/CBC/index.php">Ver agenda</a>
 </div>
 <div class="clearthis">&nbsp;</div>
 </div>
@@ -72,10 +72,9 @@ coloque aqui o calendario do mês
 <div class="services_textbox">
 <h2>Galeria de fotos</h2>
 <p>
-Coloque aqui uma foto 
 </p>
 <div class="link-more">
-<a href="http://localhost/CBC/index.php">more</a>
+<a href="http://localhost/CBC/index.php">Ver fotos</a>
 </div>
 <div class="clearthis">&nbsp;</div>
 </div>
@@ -85,10 +84,10 @@ Coloque aqui uma foto
 <div class="services_textbox">
 <h2>Galeria de videos</h2>
 <p>
-Coloque aqui um video 
+
 </p>
 <div class="link-more">
-<a href="http://localhost/CBC/index.php">more</a>
+<a href="http://localhost/CBC/index.php">Ver videos</a>
 </div>
 <div class="clearthis">&nbsp;</div>
 </div>
@@ -108,17 +107,13 @@ Coloque aqui um video
 </ul>
 <div class="clearthis">&nbsp;</div>
 <div id="order_text">
-<p>If you really want to remove the link you can buy a copyright
-free version on <a style="color: rgb(255, 0, 0);" href="http://localhost/CBC/index.php">our
-website</a>. <br />
-<br />
-Thanks.
+
 </p>
 </div>
 </div>
 
-<div id="mailing_list">
-<h2>Join the Sports Card Mailing List Email</h2>
+<div id="mailing_list"> 
+<h2>Cadastre aqui seu email e receba as notícias semanais da CbC</h2>
 <form action="http://localhost/CBC/index.php">
 <div> <input type="text" /> <input src="images/mailinglist_button.gif" alt="Go" class="button" type="image" /> </div>
 </form>
