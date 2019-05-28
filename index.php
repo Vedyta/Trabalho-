@@ -41,7 +41,7 @@
 <div id="page_content">
 <div id="welcome_text">
 <div class="content_box">
-    <h2>BEM VINDO A CONFEDERAÇÃO BRASILEIRA DE CICLISMO</h2> <br><br><br><br><br><br>
+    <h2>BEM VINDO </h2> <p>  A CONFEDERAÇÃO BRASILEIRA DE CICLISMO <br><br><br><br><br><br>
 <p>
     Site desenvolovido para o cadastro de atletas que queiram se filiar em alguma federação de ciclismo, <p>divulgação da data e o local das corridas das modalidades BMX, MTB e DH. Confira no site da cbc <p>a classificação, fotos e videos das corridas
     <a href="http://localhost/CBC/index.php">
@@ -101,9 +101,9 @@
 <a href="https://www.facebook.com/CiclismoCBC"> <img src="http://www.cbc.esp.br/img/facebook.png"></a>  <a href="https://www.youtube.com/user/ciclismocbc">  <img src="http://www.cbc.esp.br/img/youtube.png"> </a> </div>
     <h2> Conheça a CBC </h2>
 <ul>
-<li id="online"><a href="http://localhost/CBC/index.php"><span>&nbsp;</span><b class="block">Onograma</b></a></li>
-<li id="phone"><a href="http://localhost/CBC/index.php"><span>&nbsp;</span><b class="block">Quem Somos</b></a></li>
-<li id="mail"><a href="http://localhost/CBC/index.php"><span>&nbsp;</span><b class="block">Missão</b></a></li>
+<li id="onograma"><a href="http://localhost/CBC/Onograma.html"><span>&nbsp;</span><b class="block">Onograma</b></a></li>
+<li id="quem"><a href="http://localhost/CBC/Quemsomos.html"><span>&nbsp;</span><b class="block">Quem Somos</b></a></li>
+<li id="missao"><a href="http://localhost/CBC/Missao.html"><span>&nbsp;</span><b class="block">Missão</b></a></li>
 </ul>
 <div class="clearthis">&nbsp;</div>
 <div id="order_text">
@@ -126,7 +126,7 @@
 <ul>
     <li>   <a href="https://www.cob.org.br/"> <img src="http://www.cbc.esp.br/img/bandeiras.png" ></li></a>
 <li>    <a href="http://www.uci.ch/"> <img src="http://www.cbc.esp.br/img/logo-uci.png" > </a></li>
-<li><a href="https://www.copaci.org/en/home/"> <img src="http://www.cbc.esp.br/img/confederacion_panamericana.jpg"> </a></li>
+<li> <a href="https://www.copaci.org/en/home/"> <img src="http://www.cbc.esp.br/img/confederacion_panamericana.jpg"> </a></li>
 
 
 </ul>
