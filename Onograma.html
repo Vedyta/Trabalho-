@@ -22,7 +22,7 @@
 <li id="mtb"><a href="http://localhost/CBC/index.php" title="Moutain-Bike"><b>Moutain-Bike </b></a></li>
 <li id="dh"><a href="http://localhost/CBC/index.php/" title="Downhill"><b>Downhill </b></a></li>
 <li id="pista"><a href="http://localhost/CBC/index.php" title="Pistas"><b>Pistas </b></a></li> 
-<li id="Cadastro"><a href="http://localhost/CBC/index.php" title="Cadastro"><b> Cadastro</b></a></li>
+<li id="Cadastro"><a href="http://localhost/CBC/cadastro.php" title="Cadastro"><b> Cadastro</b></a></li>
 
 </ul>
 </div>
